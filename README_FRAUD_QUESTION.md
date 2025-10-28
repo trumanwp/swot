@@ -7,8 +7,8 @@
 ## What Actually Happened:
 
 1. **File Placement Error**: You put files in the wrong directory (root instead of `lib/domains/com/`)
-2. **Confusion About "abused.txt"**: PR #2 showed updates to a file called `lib/domains/abused.txt` which you mistakenly thought meant your PR was flagged as fraud
-3. **Large PR**: Your PR #2 accidentally merged 1,640 files from JetBrains repository instead of just adding your college
+2. **Confusion About "abused.txt"**: Your second PR (#2) showed updates to a file called `lib/domains/abused.txt` which you mistakenly thought meant your PR was flagged as fraud
+3. **Large PR**: Your second PR (#2) accidentally merged 1,640 files from JetBrains repository instead of just adding your college
 
 ## The Word "Fraud" Never Appeared About Your PR
 
@@ -40,8 +40,8 @@
 ## Need More Details?
 
 Open and read:
-- `EXPLANATION.md` - Comprehensive explanation
-- `VISUAL_GUIDE.md` - Visual examples and timeline
+- **EXPLANATION.md** - Comprehensive explanation
+- **VISUAL_GUIDE.md** - Visual examples and timeline
 
 ---
 
