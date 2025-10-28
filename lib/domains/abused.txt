@@ -707,7 +707,6 @@ knue.ac.kr
 kongju.ac.kr
 kookmin.kr
 koreatech.ac.kr
-ks.ac.kr
 kut.ac.kr
 kyonggi.ac.kr
 mokwon.ac.kr
