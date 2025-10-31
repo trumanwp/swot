@@ -62,7 +62,7 @@ git push origin add-subodh-college-upstream
 4. Select:
    - **base repository:** JetBrains/swot
    - **base:** master
-   - **head repository:** anacondy/swot
+   - **head repository:** your-username/swot (your fork)
    - **compare:** add-subodh-college-upstream
 5. Click "Create Pull Request"
 
