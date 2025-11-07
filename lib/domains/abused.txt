@@ -1644,3 +1644,6 @@ utp.edu.co
 tdea.edu.co
 snu.ac.kr
 bnu.edu.eg
+rezeknestehnikums.lv
+umt.edu.my
+ipchile.cl
