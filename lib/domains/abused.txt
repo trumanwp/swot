@@ -1665,3 +1665,5 @@ unisal.edu.py
 umn.ac.id
 sesidf.org.br
 s-mu.edu.eg
+office.cju.ac.kr
+cju.ac.kr
