@@ -1669,3 +1669,7 @@ office.cju.ac.kr
 cju.ac.kr
 jnu.ac.kr
 aabu.edu.jo
+vvit.net
+uv.mx
+usbbog.edu.co
+klucznet.pl
