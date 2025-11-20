@@ -1673,3 +1673,5 @@ vvit.net
 uv.mx
 usbbog.edu.co
 klucznet.pl
+cs.mti.edu.eg
+mti.edu.eg
