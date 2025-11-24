@@ -1680,3 +1680,4 @@ ais.amity.edu
 live.iium.edu.my
 soyucn.edu.co
 utp.edu.br
+hku.hk
