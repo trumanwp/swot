@@ -1678,3 +1678,7 @@ mti.edu.eg
 yyu.edu.tr
 ais.amity.edu
 live.iium.edu.my
+soyucn.edu.co
+utp.edu.br
+hku.hk
+au.edu
