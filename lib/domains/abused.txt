@@ -1688,3 +1688,5 @@ alumno.ieu.edu.mx
 students.edu.sg
 umj.ac.id
 stu.ptit.edu.vn
+ute.udn.vn
+udn.vn
