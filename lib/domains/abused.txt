@@ -1697,3 +1697,7 @@ park.edu
 uopca.unipune.ac.in
 unipune.ac.in
 usil.pe
+karabuk.edu.tr
+ogrenci.karabuk.edu.tr
+jdarc95.fr
+iekdelta360.edu.gr
