@@ -902,3 +902,4 @@ alum.vassar.edu
 yegitek.meb.k12.tr
 edu.moe.om
 du.edu.et
+st.wu.ac.th
