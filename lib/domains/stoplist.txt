@@ -901,3 +901,4 @@ giza1.moe.edu.eg
 alum.vassar.edu
 yegitek.meb.k12.tr
 edu.moe.om
+du.edu.et
