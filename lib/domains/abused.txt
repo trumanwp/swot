@@ -1705,3 +1705,5 @@ edu.lpnu.ua
 lpnu.ua
 fumec.edu.br
 u-erre.mx
+mailsv.tmu.edu.vn
+tmu.edu.vn
