@@ -1708,3 +1708,4 @@ tmu.edu.vn
 mmamc.tu.edu.np
 ogr.bandirma.edu.tr
 bandirma.edu.tr
+utmatamoros.edu.mx
