@@ -1132,7 +1132,6 @@ bahcesehir.edu.tr
 boun.edu.tr
 emu.edu.tr
 etu.edu.tr
-harran.edu.tr
 isik.edu.tr
 kku.edu.tr
 kmu.edu.tr
