@@ -588,7 +588,6 @@ mail.smamuhammadiyahkotaternate.sch.id
 mail.smasidhikarya.sch.id
 mail.stmikbumigora.ac.id
 mail.umy.ac.id
-mercubuana.ac.id
 mhs.its.ac.id
 my.stmikbumigora.ac.id
 office.itb.ac.id
@@ -598,7 +597,6 @@ sekolahnasima.sch.id
 smakstmariamalang.sch.id
 smksingaparna.sch.id
 student.istiqlal.sch.id
-student.mercubuana.ac.id
 student.prasetiyamulya.ac.id
 student.sekolahanugrah.sch.id
 student.smanrandudongkal.sch.id
@@ -1708,3 +1706,5 @@ u-erre.mx
 mailsv.tmu.edu.vn
 tmu.edu.vn
 mmamc.tu.edu.np
+ogr.bandirma.edu.tr
+bandirma.edu.tr
