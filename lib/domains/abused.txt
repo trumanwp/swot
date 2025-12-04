@@ -1709,3 +1709,4 @@ ogr.bandirma.edu.tr
 bandirma.edu.tr
 utmatamoros.edu.mx
 uniuyo.edu.ng
+wise.edu.jo
