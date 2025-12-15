@@ -556,7 +556,6 @@ anu.edu.gh
 live.gctu.edu.gh
 st.uew.edu.gh
 upsamail.edu.gh
-utg.edu.gm
 gq
 ac.eap.gr
 aua.gr
@@ -1710,3 +1709,5 @@ bandirma.edu.tr
 utmatamoros.edu.mx
 uniuyo.edu.ng
 wise.edu.jo
+ptuk.edu.ps
+carsu.edu.ph
