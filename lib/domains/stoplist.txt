@@ -904,3 +904,8 @@ du.edu.et
 st.wu.ac.th
 thaimooc.ac.th
 qmu.kz
+ccsdetroit.edu
+pakc.tu.edu.np
+halcones.ual.mx
+alumni.uettaxila.edu.pk
+office.cs.ac.kr
