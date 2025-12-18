@@ -909,3 +909,4 @@ pakc.tu.edu.np
 halcones.ual.mx
 alumni.uettaxila.edu.pk
 office.cs.ac.kr
+wsu.edu.et
