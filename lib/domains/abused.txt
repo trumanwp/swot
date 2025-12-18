@@ -1713,3 +1713,4 @@ ptuk.edu.ps
 carsu.edu.ph
 hnu.edu.eg
 celsoonline.com.br
+uat.edu.mx
