@@ -753,7 +753,6 @@ iumafis.edu.co
 me.mcu.edu.tw
 aealvalade.edu.pt
 global.ac.kr
-niu.edu
 uin-suska.ac.id
 huest.edu.kg
 jp.edu.kg
@@ -903,3 +902,13 @@ yegitek.meb.k12.tr
 edu.moe.om
 du.edu.et
 st.wu.ac.th
+thaimooc.ac.th
+qmu.kz
+ccsdetroit.edu
+pakc.tu.edu.np
+halcones.ual.mx
+alumni.uettaxila.edu.pk
+office.cs.ac.kr
+wsu.edu.et
+edu.moe.om
+paavai.edu.in

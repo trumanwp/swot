@@ -556,7 +556,6 @@ anu.edu.gh
 live.gctu.edu.gh
 st.uew.edu.gh
 upsamail.edu.gh
-utg.edu.gm
 gq
 ac.eap.gr
 aua.gr
@@ -588,7 +587,6 @@ mail.smamuhammadiyahkotaternate.sch.id
 mail.smasidhikarya.sch.id
 mail.stmikbumigora.ac.id
 mail.umy.ac.id
-mercubuana.ac.id
 mhs.its.ac.id
 my.stmikbumigora.ac.id
 office.itb.ac.id
@@ -598,7 +596,6 @@ sekolahnasima.sch.id
 smakstmariamalang.sch.id
 smksingaparna.sch.id
 student.istiqlal.sch.id
-student.mercubuana.ac.id
 student.prasetiyamulya.ac.id
 student.sekolahanugrah.sch.id
 student.smanrandudongkal.sch.id
@@ -1134,7 +1131,6 @@ bahcesehir.edu.tr
 boun.edu.tr
 emu.edu.tr
 etu.edu.tr
-harran.edu.tr
 isik.edu.tr
 kku.edu.tr
 kmu.edu.tr
@@ -1708,3 +1704,17 @@ u-erre.mx
 mailsv.tmu.edu.vn
 tmu.edu.vn
 mmamc.tu.edu.np
+ogr.bandirma.edu.tr
+bandirma.edu.tr
+utmatamoros.edu.mx
+uniuyo.edu.ng
+wise.edu.jo
+ptuk.edu.ps
+carsu.edu.ph
+hnu.edu.eg
+celsoonline.com.br
+uat.edu.mx
+hanu.edu.vn
+connect.ite.edu.sg
+ite.edu.sg
+ipluso.pt
