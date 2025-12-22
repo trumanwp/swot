@@ -1724,3 +1724,4 @@ eep.br
 ecampus.ut.ac.id
 ut.ac.id
 daihocthudo.edu.vn
+bkacad.edu.vn
