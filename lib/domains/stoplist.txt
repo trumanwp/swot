@@ -922,3 +922,8 @@ ettc.tl.edu.bb
 reus.lasalle.cat
 smc.edu.kg
 tbu.edu.gr
+estudiantes.ucnl.edu.mx
+colsape.edu.pa
+iispaciolobracciano.edu.it
+bfgi.edu.in
+edu.santoandre.sp.gov.br
