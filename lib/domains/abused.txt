@@ -1735,3 +1735,10 @@ onlineedu.tu-varna.bg
 uog.edu.et
 udes.edu.co
 uaq.mx
+gu.edu.ly
+cctt.edu.ly
+uob.edu.ly
+misuratau.edu.ly
+cet.edu.ly
+aerodept.edu.ly
+lasalle.cat
