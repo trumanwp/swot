@@ -217,12 +217,10 @@ clpccd.edu
 coastalbend.edu
 cochise.edu
 colegio.univalle.edu
-collin.edu
 com.edu
 converse.edu
 cotc.edu
 cotcmail.cotc.edu
-cougarmail.collin.edu
 cougars.csusm.edu
 cpcc.edu
 cwru.edu
@@ -1742,3 +1740,4 @@ misuratau.edu.ly
 cet.edu.ly
 aerodept.edu.ly
 lasalle.cat
+csdmedu.ca
