@@ -1741,3 +1741,6 @@ cet.edu.ly
 aerodept.edu.ly
 lasalle.cat
 csdmedu.ca
+alumnos.frh.utn.edu.ar
+frh.utn.edu.ar
+utn.edu.ar
