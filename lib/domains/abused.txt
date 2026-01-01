@@ -1744,3 +1744,5 @@ csdmedu.ca
 alumnos.frh.utn.edu.ar
 frh.utn.edu.ar
 utn.edu.ar
+mylife.mku.ac.ke
+mku.ac.ke
