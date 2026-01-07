@@ -323,7 +323,6 @@ mymail.gaston.edu
 mymail.tcc.fl.edu
 tstc.edu
 myportal.taftcollege.edu
-mysvc.skagit.edu
 mywvm.wvm.edu
 nacc.edu
 navarrocollege.edu
