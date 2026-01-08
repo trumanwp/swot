@@ -1745,3 +1745,6 @@ frh.utn.edu.ar
 utn.edu.ar
 mylife.mku.ac.ke
 mku.ac.ke
+learner.open.ac.mu
+open.ac.mu
+gmrit.edu.in

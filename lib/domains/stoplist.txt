@@ -944,3 +944,5 @@ europagym.at
 students.ndc.edu
 auea.co.uk
 live.psru.ac.th
+usc.edu.cn
+ertu.edu.pl
