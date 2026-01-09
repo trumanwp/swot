@@ -947,3 +947,5 @@ live.psru.ac.th
 usc.edu.cn
 ertu.edu.pl
 parvis.edu.gr
+alumni.harvard.edu
+kgai.edu.kg
