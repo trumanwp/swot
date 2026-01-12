@@ -951,3 +951,4 @@ alumni.harvard.edu
 kgai.edu.kg
 tecnologicadeloriente.edu.co
 edu.tuusula.fi
+prof.uniso.br
