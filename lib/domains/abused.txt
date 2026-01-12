@@ -1750,3 +1750,4 @@ open.ac.mu
 gmrit.edu.in
 ks.ac.kr
 continental.edu.pe
+sman19bandung.sch.id
