@@ -1753,3 +1753,4 @@ continental.edu.pe
 sman19bandung.sch.id
 365.mokpo.ac.kr
 mokpo.ac.kr
+sman1kendal.sch.id
