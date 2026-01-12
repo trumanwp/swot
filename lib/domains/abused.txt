@@ -1749,3 +1749,4 @@ learner.open.ac.mu
 open.ac.mu
 gmrit.edu.in
 ks.ac.kr
+continental.edu.pe
