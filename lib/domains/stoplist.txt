@@ -950,3 +950,4 @@ parvis.edu.gr
 alumni.harvard.edu
 kgai.edu.kg
 tecnologicadeloriente.edu.co
+edu.tuusula.fi
