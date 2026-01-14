@@ -1763,3 +1763,5 @@ kemenag.go.id
 ahu.edu.jo
 student.cascadia.edu
 cascadia.edu
+student.edu.az
+univ-tlemcen.dz
