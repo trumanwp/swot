@@ -1756,3 +1756,5 @@ mokpo.ac.kr
 sman1kendal.sch.id
 my.students.amrita.edu
 amrita.edu
+aluno.uema.br
+uema.br
