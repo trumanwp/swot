@@ -1760,3 +1760,6 @@ aluno.uema.br
 uema.br
 athonedu.com.br
 kemenag.go.id
+ahu.edu.jo
+student.cascadia.edu
+cascadia.edu
