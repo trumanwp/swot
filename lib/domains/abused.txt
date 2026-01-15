@@ -1318,7 +1318,6 @@ singimail.rs
 edu.hanbat.ac.kr
 harding.edu
 ufpa.br
-kmutt.ac.th
 univ-dbkm.dz
 nuevoleon.tecnm.mx
 whistlingwoods.net
