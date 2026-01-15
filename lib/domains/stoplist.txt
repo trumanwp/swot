@@ -957,3 +957,4 @@ madrasah.kemenag.go.id
 fklmstss.edu.hk
 365.sskru.ac.th
 fme.edu.kg
+swpu.edu.cn
