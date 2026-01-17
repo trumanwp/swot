@@ -26,7 +26,6 @@ unla.edu.ar
 unsl.edu.ar
 esore.asia
 nmms-mautern.at
-asoiu.edu.az
 bsu.edu.az
 code.edu.az
 itstep.edu.az
@@ -730,8 +729,9 @@ students.jinan.edu.lb
 ul.edu.lb
 live
 fhss.sjp.ac.lk
-jfn.ac.lk
+fot.sjp.ac.lk
 mgt.sjp.ac.lk
+jfn.ac.lk
 parallax.lk
 student.nibm.lk
 rsu.edu.lv
