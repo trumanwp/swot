@@ -1765,3 +1765,5 @@ cascadia.edu
 student.edu.az
 univ-tlemcen.dz
 dut.udn.vn
+upana.edu.gt
+manavrachna.net
